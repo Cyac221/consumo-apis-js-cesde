@@ -1,0 +1,1 @@
+Este es un compilado de ejercicios con fines academicos en donde se usa HTML, CSS Y JavaScript para consumo de API's Dummies, se usa el concepto de Async-Await y promesas. Se hacen peticiones a traves de los Entpoints mediante metodos HTTP Basados en REST
