@@ -3,7 +3,7 @@ let resultado = document.querySelector(".resultado")
 
 //evento al boton
 boton.addEventListener("click", ()=>{
-    alert("Botón conectado")
+    //alert("Botón conectado")
     peticion();
 });
 
